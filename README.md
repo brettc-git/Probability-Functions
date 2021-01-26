@@ -1,6 +1,6 @@
 # Probability-Functions
 
-During my Fall Semester in 2020, I was taking an Engineering Probability class and wanted to apply concepts from one chapter into a program that reinforces my knowledge of probability functions such as:
+During my fall semester in 2020, I was taking an Engineering Probability class and wanted to apply concepts from one chapter into a program that reinforces my knowledge of probability functions such as:
 
 - Bernoulli
 - Exponential
